@@ -16,7 +16,7 @@
 
 ▶️ [**iOS 商店版本**](https://apps.apple.com/us/app/ice-vpn/id6447135613?l=zh-Hans-CN)
 
-▶️ [**Android APK**](https://github.com/ICE-ShieldNetwork/ICE-VPN/blob/741925fa390c6fa635dcb84903ee70cacdffe1fb/Ice_VPN_0.0.1_arm64-v8a_07261059.apk)https://github.com/ICE-ShieldNetwork/ICE-VPN/blob/741925fa390c6fa635dcb84903ee70cacdffe1fb/Ice_VPN_0.0.1_arm64-v8a_07261059.apk)
+▶️ [**Android APK**](https://github.com/ICE-ShieldNetwork/ICE-VPN/blob/741925fa390c6fa635dcb84903ee70cacdffe1fb/Ice_VPN_0.0.1_arm64-v8a_07261059.apk)
 
 ▶️ [**官网网站链接**](www.icevpn.app)
 
