@@ -18,7 +18,7 @@
 
 ▶️ [**Android APK**](Ice_VPN_0.0.1_arm64-v8a_07261059.apk)
 
-▶️ [**官方网站链接**](www.icevpn.app)
+▶️ [**官方网站链接**](https://www.icevpn.app)
 
 ***
 **免费福利**
