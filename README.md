@@ -4,9 +4,9 @@
 
 **💰 邀请好友最高可获得30%佣金！**
 
-**🌐 已经为300W用户加速全球网络！**
-
 **🚀 无需配置，3秒内连接！**
+
+**🌐 已经为300W用户加速全球网络！**
 
 
 ****
@@ -16,9 +16,9 @@
 
 ▶️ [**iOS 商店版本**](https://apps.apple.com/us/app/ice-vpn/id6447135613?l=zh-Hans-CN)
 
-▶️ [**Android APK**](Ice_VPN_0.0.1_arm64-v8a_07071137.apk.zip)
+▶️ [**Android APK**](Ice_VPN_0.0.1_arm64-v8a_07261059.apk)
 
-▶️ [**官网网站链接**](www.icevpn.app)
+▶️ [**官方网站链接**](https://www.icevpn.app)
 
 ***
 **免费福利**
