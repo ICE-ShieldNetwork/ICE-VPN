@@ -12,7 +12,7 @@
 ****
 **点击下方蓝字，下载ICE VPN**
 
-▶️ [**iOS 大陆用户下载教程**](https://raw.githubusercontent.com/ICE-ShieldNetwork/ICE-VPN/main/iOS%20%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B.pdf)
+▶️ [**iOS 大陆用户下载教程**](https://github.com/ICE-ShieldNetwork/ICE-VPN/wiki/IOS%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B)
 
 ▶️ [**iOS 商店版本**](https://apps.apple.com/us/app/ice-vpn/id6447135613?l=zh-Hans-CN)
 
