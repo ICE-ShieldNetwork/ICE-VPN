@@ -1,4 +1,4 @@
-**ICE VPN —— 下一代隐私保护VPN服务**
+**ICE Net —— 下一代隐私保护VPN服务**
 
 **🔥 永久免费的Web3 VPN 🔥**
 
@@ -10,7 +10,7 @@
 
 
 ****
-**点击下方蓝字，下载ICE VPN**
+**点击下方蓝字，下载ICE Net**
 
 ▶️ [**iOS 大陆用户下载教程**](https://github.com/ICE-ShieldNetwork/ICE-VPN/wiki/IOS%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B)
 
@@ -23,6 +23,6 @@
 ***
 **免费福利**
 
-**🎁 下载 ICE VPN，免费领会员！**
+**🎁 下载 ICE Net，免费领会员！**
 
 **🎁 填写朋友 id，领取永久免费时长!**
